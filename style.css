@@ -1,3 +1,8 @@
+@font-face {
+    font-family: "";
+    src: url("");
+}
+
 :root {
     --primary: #fff;
     --elementbg: #212830;
